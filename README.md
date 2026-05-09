@@ -20,3 +20,5 @@ This repository contains weekly implementation updates for our capstone project.
 -week8
 -week9
 -week10
+# Code Run Instructions 
+How to run the code in jupyter notebbok- Run the cells using triangle arrow on the left of esch cell. If you are getting error in the start or in the reading datasets make sure the name of the datasets in your jupyter notebook folder are same as used in a jupyter notebook.
